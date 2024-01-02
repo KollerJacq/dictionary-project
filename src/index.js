@@ -6,6 +6,9 @@ import App from "./App";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <div className="index">
+      <App />
+    </div>{" "}
+    <footer className="text-center">Coded by Jacqueline Koller</footer>
   </React.StrictMode>
 );

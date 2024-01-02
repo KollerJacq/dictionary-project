@@ -1,9 +1,6 @@
 .App-header {
   margin: 30px auto;
 }
-img .img-city {
-  max-width: 450px;
-  display: block;
-  margin: 0 auto;
-  padding-top: 40px;
+.App {
+  color: #fff;
 }

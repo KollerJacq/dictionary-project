@@ -1,11 +1,17 @@
 import "./App.css";
-import city from "./city.jpg";
+
+import Dictionary from "./Dictionary.js";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
-      <img src={city} className="img-city img-fluid" alt="img-city" />
+      <div className="container">
+        <header className="App-header">
+          <main>
+            <Dictionary />
+          </main>
+        </header>
+      </div>{" "}
     </div>
   );
 }
