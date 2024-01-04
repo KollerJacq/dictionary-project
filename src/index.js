@@ -9,6 +9,19 @@ root.render(
     <div className="index">
       <App />
     </div>{" "}
-    <footer className="text-center">Coded by Jacqueline Koller</footer>
+    <footer className="text-center">
+      This application was coded by{" "}
+      <a href="https://github.com/KollerJacq" target="_blank" rel="noreferrer">
+        Jacqueline Koller
+      </a>{" "}
+      and is open-sourced on{" "}
+      <a
+        href="https://github.com/KollerJacq/dictionary-project"
+        target="_blank"
+        rel="noreferrer"
+      >
+        GitHub
+      </a>
+    </footer>
   </React.StrictMode>
 );
