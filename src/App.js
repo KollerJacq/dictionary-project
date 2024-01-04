@@ -8,10 +8,10 @@ function App() {
       <div className="container">
         <header className="App-header">
           <main>
-            <Dictionary />
+            <Dictionary defaultKeyword="dictionary" />
           </main>
         </header>
-      </div>{" "}
+      </div>
     </div>
   );
 }

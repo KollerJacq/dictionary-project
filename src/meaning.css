@@ -1,0 +1,17 @@
+.examples {
+  font-style: italic;
+  font-size: small;
+  margin-top: -10px;
+}
+.title {
+  font-weight: bold;
+  margin-top: 10px;
+}
+h3 {
+  font-size: large;
+  margin-bottom: -2px;
+}
+.definition {
+  line-height: 1.1;
+  margin-top: 3px;
+}
