@@ -4,8 +4,8 @@ import Dictionary from "./Dictionary.js";
 
 function App() {
   return (
-    <div className="App">
-      <div className="container">
+    <div className="container">
+      <div className="App">
         <header className="App-header">
           <main>
             <Dictionary defaultKeyword="dictionary" />

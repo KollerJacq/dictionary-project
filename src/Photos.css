@@ -1,0 +1,11 @@
+img {
+  border-radius: 4px;
+  margin: 10px 10px;
+  transition: all 150ms ease-in-out;
+}
+img:hover {
+  transform: scale(1.5);
+}
+.photos {
+  margin-left: -15px;
+}
