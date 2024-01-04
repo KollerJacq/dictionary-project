@@ -1,27 +1,27 @@
 .wordPhonetic {
   padding-left: 10px;
-  background: rgb(91, 84, 75);
+  background: rgba(255, 237, 214, 0.508);
   background: linear-gradient(
     180deg,
-    rgba(91, 84, 75, 0.5) 0%,
-    rgba(91, 84, 75, 0.49859154929577465) 100%
+    rgba(255, 236, 211, 0.377) 0%,
+    rgba(255, 236, 211, 0.394) 100%
   );
   margin-top: 10px;
   border-radius: 4px;
-  max-width: 500px;
+  max-width: 820px;
 }
 .phonetic {
   opacity: 0.8;
 }
 .meaning {
   padding-left: 10px;
-  background: rgb(91, 84, 75);
+  background: rgba(255, 237, 214, 0.508);
   background: linear-gradient(
     180deg,
-    rgba(91, 84, 75, 0.5) 0%,
-    rgba(91, 84, 75, 0.49859154929577465) 100%
+    rgba(255, 236, 211, 0.377) 0%,
+    rgba(255, 236, 211, 0.394) 100%
   );
   margin-top: 10px;
   border-radius: 4px;
-  max-width: 500px;
+  max-width: 800;
 }
